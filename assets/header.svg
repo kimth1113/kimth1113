@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="330" viewBox="0 0 1280 330" role="img" aria-label="Taehyun Kim — Software Developer, Web and Mobile">
+<rect width="1280" height="330" fill="#103466"/>
+<path d="M900 0V330M1080 0V330M0 274H1280" stroke="#31547c" fill="none"/>
+<rect x="56" y="46" width="32" height="4" fill="#cfdce9"/>
+<g font-family="Arial, Helvetica, sans-serif"><text x="56" y="102" fill="#c2d0e0" font-size="17" letter-spacing="4">SOFTWARE DEVELOPER</text>
+<text x="52" y="187" fill="#ffffff" font-size="68" font-weight="700" letter-spacing="-2">Taehyun Kim</text>
+<text x="56" y="237" fill="#cfdce9" font-size="23">Web applications. Mobile products. Operational tools.</text>
+<text x="56" y="310" fill="#b0c4db" font-size="15">JEJU, KOREA</text><text x="950" y="100" fill="#cfdce9" font-size="17">BUILD</text><text x="950" y="150" fill="#cfdce9" font-size="17">VERIFY</text><text x="950" y="200" fill="#cfdce9" font-size="17">MAINTAIN</text></g></svg>
